@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "type" : "female",
+      "Age" : "Cat",
+      "Height" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "Haircolor" : 2016,
+      "Hairlength" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+      "Eyecolor" : 2016,
+      "Boob size" : 2016,
+      "Figure" : 2016
+    },
+    {
+      "type" : "male",
+      "Age" : "Cat",
+      "Height" : ["wet food", "dry food", "<strong>any</strong> food"],
+      "Haircolor" : 2016,
+      "Hairlength" : "https://learnwebcode.github.io/json-example/images/cat-2.jpg",
+      "Eyecolor" : 2016,
+      "Beard" : 2016,
+      "Body" : 2016
+    }
+  ]
+}
